@@ -16,5 +16,5 @@ This is a simple and functional web-based calculator built using HTML, CSS, and 
 - **CSS**: Styling and layout using Flexbox and Grid
 - **JavaScript**: Logic for handling user input, calculations, and displaying results
 
-- ## Screenshots
+## Screenshot
 ![image](https://github.com/user-attachments/assets/1fc14a87-e6cf-431c-8c5e-86db8b867c7a)
