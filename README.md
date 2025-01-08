@@ -18,3 +18,6 @@ This is a simple and functional web-based calculator built using HTML, CSS, and 
 
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/1fc14a87-e6cf-431c-8c5e-86db8b867c7a)
+
+## link
+- You can also access from this link 😊 - [Visit](https://calculatorbyzaffar.netlify.app/)
